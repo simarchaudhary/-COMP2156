@@ -2,5 +2,3 @@
 
 [![Build Status](https://app.travis-ci.com/simarchaudhary/-COMP2156.svg?branch=main)](https://app.travis-ci.com/simarchaudhary/-COMP2156)
 
-## References
---https://nodesjs.org/en/download
