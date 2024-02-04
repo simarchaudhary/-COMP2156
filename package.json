@@ -1,0 +1,12 @@
+{
+  "name": "comp2156",
+  "version": "1.0.0",
+  "description": "comp2156 lab exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: No tests created yet.\" "
+  },
+  "keywords": [],
+  "author": "Simar Chaudhary",
+  "license": "ISC"
+}
