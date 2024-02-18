@@ -1,0 +1,7 @@
+Important of learning DevOps engineer in software development cycle
+
+The software development cycle, which is also referred to as the software development process or software development life cycle (SDLC), involves the stages of designing, creating, testing, and deploying software applications or systems.
+Depending on the method, it can be divided into several phases, and basically, it can be divided into Planning, Analysis, Design, Implementation, Testing, Deployment, and Maintenance.
+Learning DevOps engineering is crucial in the software development cycle.
+DevOps values automation, CI/CD, and encourages the Cooperation of teams like development and operations.
+It also improves the reliability and stability of software systems, collects feedback from users and stakeholders, and utilizes it to improve the overall quality of software to better meet users' needs.

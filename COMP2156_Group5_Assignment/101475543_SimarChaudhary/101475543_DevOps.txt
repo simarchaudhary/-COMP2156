@@ -1,0 +1,6 @@
+Information about COMP 2156- DevOps
+
+Name of the course- DevOps For System Administration
+Professor- Priteshkumar Patel
+Course includes- procedures, protocols and best practices that a DevOps engineer brings to a workplace environment to increase productivity content and the DevOps tool and the practice of using cloud databases, efficient code management, and data formats and types, including JavaScript.
+Mode of Lectures and Labs-  Online through Zoom.
